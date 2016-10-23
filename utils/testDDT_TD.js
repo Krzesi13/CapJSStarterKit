@@ -3,7 +3,7 @@
  */
 'use strict';
 
-var TestData = require('TestData'),
+var TestData = require('./TestData'),
     FunduszeMainPO = require('../page-objects/bankier/rynki/FunduszePage.js'),
     SurowceMainPO = require('../page-objects/bankier/rynki/SurowcePage.js'),
     WalutyMainPO = require('../page-objects/bankier/rynki/WalutyPage.js'),

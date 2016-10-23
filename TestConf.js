@@ -7,7 +7,7 @@ var MainConf = require(AppDir +'/Configuration/MainConf.js');
 
 
 var Test = new MainConf(projectDir, pagesDir);
-Test.runTests('testDDT.js');
+Test.runTests('FirstTest.js');
 
 exports.config = Test.config;
 

@@ -1,5 +1,5 @@
 var BasePage = require('../page-objects/BasePage.js');
-var FirstTestTD = require('FirstTest_TD.js');
+var FirstTestTD = require('./FirstTest_TD.js');
 
 
 describe('todo test', function() {
